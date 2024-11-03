@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: GuanWen Qiu's Personal Website
+title: GuanWen Qiu
 
 # Your name to show in the footer
 author: GuanWen Qiu
@@ -60,7 +60,7 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: GuanWenQiu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -109,10 +109,10 @@ title-on-all-pages: true
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: false
