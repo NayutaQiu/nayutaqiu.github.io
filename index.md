@@ -8,4 +8,4 @@ I am a graduating master’s student at the University of Pennsylvania, pursuing
 
 This website serves as both a personal repository and a place for others interested in machine learning. Here, I will start to continuously document my notes, whether from research or self-study, covering lecture insights, reading notes, and paper reviews. I hope that some of these reflections may offer fresh perspectives to visitors. I’ll also post updates on each of my publications as they become available.
 
-When I am not doing research, I enjoy playing fingerstyle guitar, singing, and watching anime. You can find some of my guitar recordings [here](https://space.bilibili.com/28998104)  
+When I am not doing research, I enjoy playing fingerstyle guitar, singing, and watching anime. You can find some of my guitar recordings [here](https://space.bilibili.com/28998104). My all-time favorite instrumental is Nayuta by the guitarist [Kotaro Oshio](https://en.wikipedia.org/wiki/Kotaro_Oshio)—check out the [original version](https://www.youtube.com/watch?v=5yWJtDhe09M) and [my rendition](https://www.youtube.com/watch?v=BnNARV2mPwo).
